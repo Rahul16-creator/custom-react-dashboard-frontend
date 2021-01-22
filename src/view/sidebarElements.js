@@ -11,11 +11,11 @@ export const  SidebarElements =[
     {
         title:"Signup",
         icon:"",
-        url:"/Signup"
+        url:"/"
     },
     {
         title:"Signin",
         icon:"",
-        url:"/Signin"
+        url:"/"
     }
 ]
