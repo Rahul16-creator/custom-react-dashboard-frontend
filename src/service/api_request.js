@@ -1,4 +1,4 @@
-const API = "http://localhost:8000";
+const API = "https://custom-react-dashboard-backend.herokuapp.com/";
 
 const fetchData = () => {
 
