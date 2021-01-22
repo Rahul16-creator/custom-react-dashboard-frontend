@@ -1,0 +1,32 @@
+body{
+  overflow-x: hidden;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ background-color: hsla(0, 0%, 0%, 0.904);
+ color: wheat;
+
+}
+
+.App canvas{
+  width: 90% !important;
+  height: 300px !important;
+}
+
+
+
+
+.mid {
+  display: flex;
+}
+.mid canvas {
+  margin-right: 100px;
+  width: 500px !important;
+  height: 300px !important;
+}
+
+.cards {
+  background-color: rgba(0, 0, 0, 0.699);
+}
